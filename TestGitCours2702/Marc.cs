@@ -11,6 +11,8 @@ namespace TestGitCours2702
         public void MaMethode()
         {
             Console.WriteLine("Ceci est la méthode de Marc");
+            Console.WriteLine("modification de mathis");
+
         }
     }
 }
